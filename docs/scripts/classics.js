@@ -15,7 +15,20 @@ var episodeList = [
     "The Crusade",
     "The Space Museum",
     "The Chase",
-    "THe Time Meddler"
+    "THe Time Meddler",
+    "Galaxy 4",
+    "Mission to the Unknown",
+    "The Myth Makers",
+    "The Daleks' Master Plan",
+    "The Massacre of St Bartholomew's Eve",
+    "The Ark",
+    "The Celestial Toymaker",
+    "The Gunfighters",
+    "The Savages",
+    "The War Machines",
+    "The Smugglers",
+    "The Tenth Planet"
+
 
   ];
   
