@@ -1,8 +1,17 @@
 h1, h2 {
     text-align: center;
+    color: rgb(209,205,199);
 }
 
 button {
     display: block;
     margin: auto;
+    background-color: #181a1b;
+    line-height: normal;
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+
+body {
+    background-color: rgb(24,26,27);
 }

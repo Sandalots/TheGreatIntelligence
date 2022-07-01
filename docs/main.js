@@ -152,4 +152,6 @@ function generateItem() {
 
 function clearItem() {
   document.getElementById("episode").innerHTML = "";
+  
 }
+
