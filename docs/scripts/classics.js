@@ -72,7 +72,31 @@ var episodeList = [
     "Invasion of the Dinosaurs",
     "Death to the Daleks",
     "The Monster of Peladon",
-    "Planet of the Spiders"
+    "Planet of the Spiders",
+    "Robot",
+    "The Ark in Space",
+    "The Sontaran Experiment",
+    "Genesis of the Daleks",
+    "Revenge of the Cybermen",
+    "Terror of the Zygons",
+    "Planet of Evil",
+    "Pyramids of Mars",
+    "The Android Invasion",
+    "The Brain of Morbius",
+    "The Seeds of Doom",
+    "The Masque of Mandragora",
+    "The Hand of Fear",
+    "The Deadly Assassin",
+    "The Face of Evil",
+    "The Robots of Death",
+    "The Talons of Weng-Chiang",
+    "Horror of Fang Rock",
+    "The Invisible Enemy",
+    "Image of the Fendahl",
+    "The Sun Makers",
+    "Underworld",
+    "The Invasion of Time"
+
 
 
   ];
