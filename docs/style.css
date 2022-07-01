@@ -12,9 +12,10 @@ button {
     color: #e8e6e3;
 }
 
-html {
-  background-color:#181a1b !important;
-}
+body{
+background-color:#181a1b;
+}  
+
 
 ul {
     list-style-type: none;
