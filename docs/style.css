@@ -12,8 +12,8 @@ button {
     color: #e8e6e3;
 }
 
-body {
-    background-color: rgb(24,26,27);
+html {
+  background-color:#181a1b !important;
 }
 
 ul {
