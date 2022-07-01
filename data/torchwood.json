@@ -1,17 +1,17 @@
 {
     "episodes": [
-        {"episodeName:"Everything Changes""},
-        {"episodeName:"Day One""},
-        {"episodeName:"Ghost Machine""},
-        {"episodeName:"Cyberwoman""},
-        {"episodeName:"Small Worlds""},
-        {"episodeName:"Countrycide""},
-        {"episodeName:"Greeks Bearing Gifts""},
-        {"episodeName:"They Keep Killing Suzie""},
-        {"episodeName:"Random Shoes""},
-        {"episodeName:"Out of Time""},
-        {"episodeName:"Combat""},
-        {"episodeName:"Captain Jack Jarkness""},
-        {"episodeName:"End of Days""}
+        {"episodeName": "Everything Changes"},
+        {"episodeName" : "Day One"},
+        {"episodeName" : "Ghost Machine"},
+        {"episodeName" : "Cyberwoman"},
+        {"episodeName" : "Small Worlds"},
+        {"episodeName" : "Countrycide"},
+        {"episodeName" :"Greeks Bearing Gifts"},
+        {"episodeName" : "They Keep Killing Suzie"},
+        {"episodeName" : "Random Shoes"},
+        {"episodeName" : "Out of Time"},
+        {"episodeName" : "Combat"},
+        {"episodeName" : "Captain Jack Jarkness"},
+        {"episodeName" : "End of Days"}
     ]
 }
