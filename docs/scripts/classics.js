@@ -95,7 +95,26 @@ var episodeList = [
     "Image of the Fendahl",
     "The Sun Makers",
     "Underworld",
-    "The Invasion of Time"
+    "The Invasion of Time",
+    "The Ribos Operation",
+    "The Pirate Planet",
+    "The Stones of Blood",
+    "The Androids of Tara",
+    "The Power of Kroll",
+    "The Armageddon Factor",
+    "Destiny of the Daleks",
+    "City of Death",
+    "The Creature from the Pit",
+    "Nightmare of Eden",
+    "The Horns of Nimon",
+    "Shada",
+    "The Leisure Hive",
+    "Meglos",
+    "Full Circle",
+    "State of Decay",
+    "Warriors' Gate",
+    "The Keeper of Traken",
+    "Logopolis"
 
 
 
