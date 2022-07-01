@@ -135,7 +135,30 @@ var episodeList = [
     "Resurrection of the Daleks",
     "Planet of Fire",
     "The Caves of Androzani",
-    "THe Twin Dilemma"
+    "THe Twin Dilemma",
+    "Attack of the Cybermen",
+    "Vengeance on Varos",
+    "The Mark of the Rani",
+    "The Two Doctors",
+    "Timelash",
+    "Revelation of the Daleks",
+    "The Mysterious Planet",
+    "Mindwarp",
+    "Terror of the Vervoids",
+    "The Ultimate Foe",
+    "Time and the Rani",
+    "Paradise Towers",
+    "Delta and the Bannermen",
+    "Dragonfire",
+    "Remembrance of the Daleks",
+    "The Happiness Patrol",
+    "Silver Nemesis",
+    "The Greatest Show in the Galaxy",
+    "Battlefield",
+    "Ghost Light",
+    "The Curse of Fenric",
+    "Survival",
+    "Doctor Who (film)"
 
 
 
