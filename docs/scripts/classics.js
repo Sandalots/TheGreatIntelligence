@@ -114,7 +114,28 @@ var episodeList = [
     "State of Decay",
     "Warriors' Gate",
     "The Keeper of Traken",
-    "Logopolis"
+    "Logopolis",
+    "Castrovalva",
+    "Four to Doomsday",
+    "Kinda",
+    "The Visitation",
+    "Black Orchid",
+    "Earthshock",
+    "Time-Flight",
+    "Arc of Infinity",
+    "Snakedance",
+    "Mawdryn Undead",
+    "Terminus",
+    "Enlightenment",
+    "The King's Demons",
+    "The Five Doctors",
+    "Warriors of the Deep",
+    "The Awakening",
+    "Frontios",
+    "Resurrection of the Daleks",
+    "Planet of Fire",
+    "The Caves of Androzani",
+    "THe Twin Dilemma"
 
 
 
