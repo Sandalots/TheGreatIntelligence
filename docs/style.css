@@ -3,14 +3,14 @@ h1, h2 {
     color: rgb(209,205,199);
 }
 
-button {
+/*button {
     display: block;
     margin: auto;
     background-color: #181a1b;
     line-height: normal;
     border-color: #736b5e;
     color: #e8e6e3;
-}
+}*/
 
 body, html{
 background-color:#181a1b;
