@@ -1,4 +1,4 @@
 # The Great Intelligence
 Adventures in Time and Space.
-Pick your adventures!
+Let fate pick your adventures!
 A webpage by @Sandalots and Company.
