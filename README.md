@@ -1,5 +1,6 @@
 # The Great Intelligence
 Adventures in Time and Space. <br>
+A guide to selecting the universes best adventures!
 ## Contents
 - New Who (2005-17), non-chinballs.
 - Classic Who (1963-89, 96)
