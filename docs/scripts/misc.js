@@ -11,7 +11,15 @@ var episodeList = [
     "Dimensions in Time",
     "The Curse of Fatal Death",
     "Born Again",
-    "Pond Life"
+    "Pond Life",
+    "Shada",
+    "Death Comes to Time",
+    "Real Time",
+    "P.S.",
+    "The Night of the Doctor",
+    "Rory's Story",
+    "The Secret of Novice Hame",
+    "24 Carat"
   ];
   
   function generateItem() {
