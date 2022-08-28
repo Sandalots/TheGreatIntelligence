@@ -3,6 +3,10 @@ h1, h2, p{
     color: rgb(209,205,199);
 }
 
+
+h1 {
+    margin-top: 5px;
+}
 /*button {
     display: block;
     margin: auto;
