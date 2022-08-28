@@ -7,4 +7,5 @@ A guide to selecting the universes best adventures!
 - Torchwood (2006-11)
 - SJA (2007-11)
 - Class (2016)
-- Other Supplementary and Misc episodes. (1963 - )
+- Supplementary and miscellaneous episodes (1963 - present)
+- Big Finish (1999 - present)
