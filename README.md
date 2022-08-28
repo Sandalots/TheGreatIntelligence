@@ -7,4 +7,4 @@ A guide to selecting the universes best adventures!
 - Torchwood (2006-11)
 - SJA (2007-11)
 - Class (2016)
-- Supplementary and miscellaneous episodes. (1963 - )
+- Supplementary and miscellaneous episodes (1963 - )
