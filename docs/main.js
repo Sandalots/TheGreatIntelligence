@@ -145,18 +145,14 @@ var episodeList = [
   "Twice Upon A Time"
 ];
 
+// Get a random episode from the list above.
 function generateItem() {
   var randomItem = episodeList[Math.floor(Math.random()*episodeList.length)];
   document.getElementById("episode").innerHTML += "<br>" + randomItem;
 }
 
+// Clear the buffer list.
 function clearItem() {
   document.getElementById("episode").innerHTML = "";
   
-}
-
-function populateItems() {
-  for (var i = 0; i < 2; i++) {
-    generateItem();
-  }
 }
