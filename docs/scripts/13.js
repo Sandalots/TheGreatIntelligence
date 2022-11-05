@@ -28,7 +28,8 @@ var episodeList = [
     "Survivors of the Flux",
     "The Vanquishers",
     "Eve of the Daleks",
-    "Legend of the Sea Devils"
+    "Legend of the Sea Devils",
+    "The Power of The Doctor"
 
   ];
   
