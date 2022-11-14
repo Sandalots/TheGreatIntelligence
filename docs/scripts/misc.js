@@ -19,7 +19,12 @@ var episodeList = [
     "The Night of the Doctor",
     "Rory's Story",
     "The Secret of Novice Hame",
-    "24 Carat"
+    "24 Carat",
+    "The Great Detective",
+    "Rain Gods",
+    "Bernice Summerfield Webcast",
+    "Good Night",
+    "Time Crash"
   ];
   
   function generateItem() {
