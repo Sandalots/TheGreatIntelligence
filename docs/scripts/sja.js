@@ -25,8 +25,8 @@ var episodeList = [
     "Goodbye, Sarah Jane Smith",
     "Sky",
     "The Curse of Clyde Langer",
-    "The Man Who Never Was"
-    
+    "The Man Who Never Was",
+    "Farewell, Sarah Jane Smith"
   ];
   
   function generateItem() {
