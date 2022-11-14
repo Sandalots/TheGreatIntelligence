@@ -30,7 +30,6 @@ var episodeList = [
     "Eve of the Daleks",
     "Legend of the Sea Devils",
     "The Power of The Doctor"
-
   ];
   
   function generateItem() {
