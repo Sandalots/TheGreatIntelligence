@@ -1,6 +1,5 @@
 # The Great Intelligence
-Adventures in Time and Space. <br>
-
+Adventures in Time and Space.
 
 ## Contents
 - The Revival (2005 - present)
@@ -8,5 +7,5 @@ Adventures in Time and Space. <br>
 - Torchwood (2006-11)
 - Sarah Jane Adventures (2007-11, 2020)
 - Class (2016)
-- Supplementary and miscellaneous episodes (1963 - present)
+- Supplementary and Miscellaneous episodes (1963 - present)
 - Big Finish Main Range & Spin-offs (1999 - present)

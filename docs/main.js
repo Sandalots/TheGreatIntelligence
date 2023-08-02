@@ -142,7 +142,10 @@ var episodeList = [
   "The Eaters of Light",
   "World Enough and Time",
   "The Doctor Falls",
-  "Twice Upon A Time"
+  "Twice Upon A Time",
+  "The Star Beast",
+  "Wild Blue Yonder",
+  "The Giggle"
 ];
 
 // Get a random episode from the list above.
